@@ -1,0 +1,10 @@
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/BookManager
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/appsettings.Development.json
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/appsettings.json
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/BookManager.dll
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/BookManager.deps.json
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/BookManager.runtimeconfig.json
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/BookManager.pdb
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/Microsoft.OpenApi.dll
+/Users/zero/RiderProjects/BookManager/BookManager/bin/Release/net9.0/linux-x64/publish/Scalar.AspNetCore.dll

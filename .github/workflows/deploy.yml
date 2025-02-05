@@ -22,10 +22,10 @@ jobs:
         run: dotnet build ./BookManager/BookManager.csproj --no-restore
       - name: ✅ Run Tests
         run: dotnet test ./BookManager/BookManager.csproj --no-build --verbosity normal
-        
+
   publish:
     needs: build
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    environment: dev
     runs-on: ubuntu-latest
     steps:
       - name: 🛠️ Checkout Repository
